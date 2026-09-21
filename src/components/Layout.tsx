@@ -42,7 +42,7 @@ export default function Layout() {
       <SiteBackgroundSlot />
       <SectionErrorBoundary name="navbar">
         <NavbarFloating
-      logo="Sydney Clean Pro"
+      logo="JWP Maintenance"
       ctaButton={{
         text: "Get Quote",
         href: "#contact",
@@ -54,7 +54,7 @@ export default function Layout() {
       </main>
       <SectionErrorBoundary name="footer">
         <FooterSimple
-      brand="Sydney Clean Pro"
+      brand="JWP Maintenance"
       columns={[
         {
           title: "Services",
@@ -91,7 +91,7 @@ export default function Layout() {
           ],
         },
       ]}
-      copyright="© 2024 Sydney Clean Pro. All rights reserved."
+      copyright="© 2024 JWP Maintenance. All rights reserved."
       links={[
         {
           label: "Privacy Policy",
