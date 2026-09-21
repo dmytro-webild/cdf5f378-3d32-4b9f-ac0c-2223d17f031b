@@ -145,7 +145,7 @@ export default function HomePage() {
           imageSrc: "http://img.b2bpic.net/free-photo/horizontal-rearview-maid-classic-uniform-cleaning-apartment-with-vacuum-cleaner-working-living-room-making-space-look-clean-tidy-woman-tries-her-best-meet-employer-demands_176420-14594.jpg",
         },
         {
-          title: "Bathroom",
+          tag: "Bathroom",
           price: "Spotless",
           period: "Before & After",
           features: [
@@ -160,7 +160,7 @@ export default function HomePage() {
           imageSrc: "http://img.b2bpic.net/free-photo/little-boy-with-glasses-cleans-house-with-vacuum-cleaner_169016-11279.jpg",
         },
         {
-          title: "Office Break Room",
+          tag: "Office Break Room",
           price: "Refreshed",
           period: "Before & After",
           features: [
