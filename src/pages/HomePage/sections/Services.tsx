@@ -10,9 +10,9 @@ import { resolveIcon } from "@/utils/resolve-icon";
 
 const items = [
   {
-    title: "Residential Cleaning",
-    description: "Regular house cleaning, kitchen & bathroom sanitation, and end-of-lease move-out services.",
-    buttonIcon: "Home",
+    title: "Initial Cleaning",
+    description: "Thorough first-time deep cleaning, kitchen & bathroom sanitation, and initial property preparation.",
+    buttonIcon: "Sparkles",
     imageSrc: "http://img.b2bpic.net/free-photo/woman-cleaning-her-home_23-2148118476.jpg"
   },
   {
